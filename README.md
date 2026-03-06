@@ -1,4 +1,4 @@
-# 🐍 Aulas de Python – SENAI
+# 🐍 Aulas de Python
 
 Este repositório contém os conteúdos estudados nas aulas de **Python no SENAI**, organizados conforme os temas abordados ao longo do curso.
 
