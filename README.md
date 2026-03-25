@@ -141,4 +141,4 @@ streamlit run nome_do_app.py
 
 ## Autor: Mel Letícia
 
-Repositório desenvolvido para fins educacionais durante o curso de Python no SENAI – 2025.
+Repositório desenvolvido para fins educacionais 2026.
